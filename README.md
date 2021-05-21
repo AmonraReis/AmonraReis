@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👊
 I am studying the first semester of analysis and systems development at the university of the valley of rio dos sinos
 - 🌱 Currently, I am learning about web development, focusing on java script, html, css.
 - 🔭 Languages ​​and technologies I have knowledge of: Html, css, java script, java.
