@@ -3,5 +3,5 @@
 
 
 
-- ⚡ technologies:JavaScript, Java, Html, Css
+- ⚡ technologies: JavaScript, Java, Html, Css
 
