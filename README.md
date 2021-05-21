@@ -7,5 +7,3 @@ I am studying the first semester of analysis and systems development at the univ
 
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AmonraReis)
-
