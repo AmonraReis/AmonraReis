@@ -2,7 +2,7 @@
 I am studying the second semester of analysis and systems development at the university of the valley of rio dos sinos
 
 >
-I currently work as a support analyst and focus for the testing area.
+
 <
 
 
