@@ -1,5 +1,5 @@
 ### Hi there 👋 👊
-I am studying the second semester of analysis and systems development at the university of the valley of rio dos sinos
+
 
 >
 
