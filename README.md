@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AmonraReis&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Foco em automação e melhorar a qualidade de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvido de Sistemas** no <a href="link da sua faculdade">Estácio de Sá</a>.
@@ -21,7 +21,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Utilidades**
+**Api tests**
 
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
