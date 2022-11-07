@@ -46,7 +46,6 @@
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?AmonraReis=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/AmonraReis)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
