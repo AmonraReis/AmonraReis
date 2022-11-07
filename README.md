@@ -46,6 +46,8 @@
 
 <br/>
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/AmonraReis)
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin:Amonra Reis de Soza](https://img.shields.io/badge/-Amonra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/amonrareis/))](LINK-DO-SEU-LINKEDIN)
