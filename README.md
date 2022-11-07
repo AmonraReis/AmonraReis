@@ -40,13 +40,13 @@
 
 <br/>
 
-<a href="[https://github.com/VanessaSwerts](https://github.com/AmonraReis)">
+<a href="[https://github.com/VanessaSwerts](https://github.com/AmonraReis)](https://github.com/AmonraReis)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmonraReis&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/AmonraReis)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?AmonraReis=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/AmonraReis)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
