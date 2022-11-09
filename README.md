@@ -38,13 +38,15 @@
   
 
 
-<br/>
+## **GitHub Estatísticas**
 
-<a href="[https://github.com/VanessaSwerts](https://github.com/AmonraReis)](https://github.com/AmonraReis)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmonraReis&theme=dracula&show_icons=true" />
+<a href="https://github.com/AmonraReis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonraReis&theme=dracula&hide_langs_below=1" />
 </a>
 
-<br/>
+<a href="https://github.com/AmonraReis">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmonraReis&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
