@@ -3,10 +3,10 @@
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Foco em automação e melhorar a qualidade de software.
+- 🤔 &nbsp; Sou um amante de tecnologia e a area de automação e qualidade de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvido de Sistemas** no <a href="link da sua faculdade">Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como **Analista de QA** na <a href="LINK DA EMPRESA">Warmup</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Cypress, Cucumber e Selenium**.
+- 💼 &nbsp; Trabalhando como **Analista de Automação de Testes** na <a href="LINK DA EMPRESA">Cigam</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Cypress,Cucumber,Selenium e API tests.**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
