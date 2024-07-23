@@ -1,13 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AmonraReis&color=006bed)
 
-<h3> 👨‍💻 &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Sou um amante de tecnologia e da área de automação e qualidade de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvido de Sistemas** no <a href="link da sua faculdade">Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como Qa engineer
-- 🌱 &nbsp; Aprendendo mais sobre **Cypress,Cucumber,Selenium e API tests.**.
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
